@@ -1,1 +1,1 @@
-Build Feature Extraction Model to Detect Valvular Heart Disease using a Phonocardiogram based Root Mean Square Energy algorithm, Spectral Centroid algorithm, and Mel-Frequency Cepstral Coefficient algorithm
+Build Feature Extraction Model to Detect Valvular Heart Disease using a Phonocardiogram based Root Mean Square Energy algorithm, Spectral Centroid algorithm, and Mel-Frequency Cepstral Coefficient algorithm.
