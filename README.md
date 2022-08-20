@@ -1,1 +1,3 @@
-Build Feature Extraction Model to Detect Valvular Heart Disease using a Phonocardiogram based Root Mean Square Energy algorithm, Spectral Centroid algorithm, and Mel-Frequency Cepstral Coefficient algorithm.
+# Wino Rama Putra (1301174696)
+
+Link Google Collabs https://colab.research.google.com/drive/1rB2JgCGDUaXdUvT-sW3KScLdk9DYKbpW?usp=sharing
